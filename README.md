@@ -1,8 +1,6 @@
-An open-source Python tool to visualize correlation matrices from Excel files instantly. Perfect for researchers and analysts!
-
 # Excel Correlation Visualizer
 
-A Python desktop application that allows users to visualize correlations between numeric variables in Excel files. The application provides a simple graphical user interface to select Excel files, preview data, and generate correlation heatmaps and scatter plots.
+An open-source Python tool to visualize correlation matrices from Excel files instantly. Perfect for researchers and analysts!
 
 ## Features
 
